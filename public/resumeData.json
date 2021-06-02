@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name": "Phan Dinh Ky",
+    "occupation": "Front-End Developer",
+    "description": "Work, learn, and look for opportunities to develop skills about React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Ky Phan! A new programmer on his way to becoming an expert in the field of React",
+    "contactmessage": "Get in touch with me to be a good partner!",
+    "email": "kypdit94@gmail.com",
+    "phone": "+077 349 6873",
+    "address": {
+      "street": "220/5A Hoang Van Thu",
+      "state": "Tan Binh",
+      "city": "Ho Chi Minh"
+    },
+    "social": [
+      {
+        "name": "youtube",
+        "url": "#",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/toiyeuvietnam.phan/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kypdIT",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "VNUHCM-UNIVERSITY OF SCIENCE",
+        "degree": "Faculty of Mathematics and Computer Science",
+        "graduated": "February 2018",
+        "description": "Classification: Good"
+      }
+    ],
+    "work": [
+      {
+        "company": "newIT VN",
+        "title": "Front-End Developer",
+        "years": "MARCH 2020 - Present",
+        "description": "Working with ReactJS, NodeJS, Database (SQL/ noSQL)."
+      },
+      {
+        "company": "VCCORP, SHGAME HCM",
+        "title": "GAME OPERATOR",
+        "years": "MARCH 2019 – MARCH 2020",
+        "description": "Ensure the stability of the Game Online system."
+      },
+      {
+        "company": "CTEK SOLUTION",
+        "title": "INTERNSHIP WEBDEVELOPER",
+        "years": "AUGUST 2018 – NOVEMBER 2018",
+        "description": "Working with Basic Website and Wordpress"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "60%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "50%"
+      },
+      {
+        "name": "React Native",
+        "level": "30%"
+      },
+      {
+        "name": "SQL(xampp)/ noSQL (mongoDB)",
+        "level": "60%"
+      },
+      {
+        "name": "Git/Docker",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      }
+    ]
+  }
+}
