@@ -105,6 +105,12 @@
         "category": "",
         "image": "amazon.jpg",
         "url": "https://amazon-next-js-zeta.vercel.app/"
+      },
+      {
+        "title": "Currency API Tracker",
+        "category": "",
+        "image": "crypto.jpg",
+        "url": "https://currency-crypto-api-tracker.vercel.app/"
       }
     ]
   }
